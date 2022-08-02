@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fikretsefa
 - 👀 I’m interested in Mobile & Web development
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning React.js
 - 📫 U can react to me fikret.sefa@gmail.com
 
 <!---
